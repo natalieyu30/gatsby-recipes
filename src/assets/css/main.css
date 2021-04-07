@@ -589,7 +589,7 @@ form > *:last-child {
 .tags-list a {
   text-transform: capitalize;
   display: block;
-  color: var(--grey-100);
+  color: var(--grey-700);
   transition: var(--transition);
 }
 .tags-list a:hover {
